@@ -5,7 +5,7 @@ export function Blogtecnologe() {
         <div className="card-lorem">
           <img src="src/assets/batement.jpg" alt="" />
           <p>29.jun.2022</p>
-          <h1>Instagram artists with great photography skills</h1>
+          <h1>Instagram artists with great photography skills origin</h1>
           <p>
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt
             porro fuga rerum, ullam,{" "}
