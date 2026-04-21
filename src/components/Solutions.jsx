@@ -3,8 +3,8 @@ export function Solutions(){
       <>
         <div className="card-Instagram  ">
           <h3>Instagram artists with great photography skills</h3>
-        </div>
-        <div class="container ">
+          </div>
+          <div class="container ">
           <div className="row">
             <div className="card1">
               <div className="card-dramas">

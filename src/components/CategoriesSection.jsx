@@ -93,7 +93,7 @@ export function CategoriesSection() {
             </div>
           </div>
           <div className="dolor">
-            <img src="src/assets/dramas3.jpg" alt="" className="image" />
+          
             <div className=" minus ">
               <p>29.jun.2022</p>
               <h2>
